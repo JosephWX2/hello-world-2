@@ -1,2 +1,3 @@
 # hello-world-2
-me testing out github
+
+hello I am an avid coder and book lover
